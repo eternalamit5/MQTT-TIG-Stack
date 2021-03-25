@@ -1,5 +1,5 @@
 # MQTT-TIG-Stack
-Mostly used MQTT+TIG Stack = Mosquitto MQTT broker + Telegraf + InfluxDB + Grafana stack 
+MQTT+TIG Stack = Mosquitto MQTT broker + Telegraf + InfluxDB + Grafana stack 
 
 
 It quickly creates the TIG stack with __basic__ user authentication for all
