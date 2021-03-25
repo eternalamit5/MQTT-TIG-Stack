@@ -1,0 +1,348 @@
+1616669994: mosquitto version 1.6.14 starting
+1616669994: Config loaded from /mosquitto/config/mosquitto.conf.
+1616669994: Opening websockets listen socket on port 1884.
+1616669994: Opening ipv4 listen socket on port 1883.
+1616669994: Opening ipv6 listen socket on port 1883.
+1616669994: mosquitto version 1.6.14 running
+1616670000: New connection from 172.21.0.3 on port 1883.
+1616670000: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670000: Socket error on client <unknown>, disconnecting.
+1616670000: New connection from 172.21.0.3 on port 1883.
+1616670000: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670000: Socket error on client <unknown>, disconnecting.
+1616670020: New connection from 172.21.0.3 on port 1883.
+1616670020: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670020: Socket error on client <unknown>, disconnecting.
+1616670040: New connection from 172.21.0.3 on port 1883.
+1616670040: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670040: Socket error on client <unknown>, disconnecting.
+1616670060: New connection from 172.21.0.3 on port 1883.
+1616670060: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670060: Socket error on client <unknown>, disconnecting.
+1616670080: New connection from 172.21.0.3 on port 1883.
+1616670080: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670080: Socket error on client <unknown>, disconnecting.
+1616670100: New connection from 172.21.0.3 on port 1883.
+1616670100: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670100: Socket error on client <unknown>, disconnecting.
+1616670120: New connection from 172.21.0.3 on port 1883.
+1616670120: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670120: Socket error on client <unknown>, disconnecting.
+1616670140: New connection from 172.21.0.3 on port 1883.
+1616670140: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670140: Socket error on client <unknown>, disconnecting.
+1616670160: New connection from 172.21.0.3 on port 1883.
+1616670160: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670160: Socket error on client <unknown>, disconnecting.
+1616670180: New connection from 172.21.0.3 on port 1883.
+1616670180: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670180: Socket error on client <unknown>, disconnecting.
+1616670200: New connection from 172.21.0.3 on port 1883.
+1616670200: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670200: Socket error on client <unknown>, disconnecting.
+1616670220: New connection from 172.21.0.3 on port 1883.
+1616670220: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670220: Socket error on client <unknown>, disconnecting.
+1616670240: New connection from 172.21.0.3 on port 1883.
+1616670240: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670240: Socket error on client <unknown>, disconnecting.
+1616670260: New connection from 172.21.0.3 on port 1883.
+1616670260: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670260: Socket error on client <unknown>, disconnecting.
+1616670280: New connection from 172.21.0.3 on port 1883.
+1616670280: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670280: Socket error on client <unknown>, disconnecting.
+1616670300: New connection from 172.21.0.3 on port 1883.
+1616670300: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670300: Socket error on client <unknown>, disconnecting.
+1616670320: New connection from 172.21.0.3 on port 1883.
+1616670320: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670320: Socket error on client <unknown>, disconnecting.
+1616670340: New connection from 172.21.0.3 on port 1883.
+1616670340: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670340: Socket error on client <unknown>, disconnecting.
+1616670360: New connection from 172.21.0.3 on port 1883.
+1616670360: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670360: Socket error on client <unknown>, disconnecting.
+1616670380: New connection from 172.21.0.3 on port 1883.
+1616670380: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670380: Socket error on client <unknown>, disconnecting.
+1616670400: New connection from 172.21.0.3 on port 1883.
+1616670400: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670400: Socket error on client <unknown>, disconnecting.
+1616670420: New connection from 172.21.0.3 on port 1883.
+1616670420: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670420: Socket error on client <unknown>, disconnecting.
+1616670440: New connection from 172.21.0.3 on port 1883.
+1616670440: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670440: Socket error on client <unknown>, disconnecting.
+1616670460: New connection from 172.21.0.3 on port 1883.
+1616670460: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670460: Socket error on client <unknown>, disconnecting.
+1616670480: New connection from 172.21.0.3 on port 1883.
+1616670480: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670480: Socket error on client <unknown>, disconnecting.
+1616670500: New connection from 172.21.0.3 on port 1883.
+1616670500: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670500: Socket error on client <unknown>, disconnecting.
+1616670520: New connection from 172.21.0.3 on port 1883.
+1616670520: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670520: Socket error on client <unknown>, disconnecting.
+1616670540: New connection from 172.21.0.3 on port 1883.
+1616670540: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670540: Socket error on client <unknown>, disconnecting.
+1616670560: New connection from 172.21.0.3 on port 1883.
+1616670560: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670560: Socket error on client <unknown>, disconnecting.
+1616670580: New connection from 172.21.0.3 on port 1883.
+1616670580: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670580: Socket error on client <unknown>, disconnecting.
+1616670600: New connection from 172.21.0.3 on port 1883.
+1616670600: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670600: Socket error on client <unknown>, disconnecting.
+1616670620: New connection from 172.21.0.3 on port 1883.
+1616670620: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670620: Socket error on client <unknown>, disconnecting.
+1616670640: New connection from 172.21.0.3 on port 1883.
+1616670640: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670640: Socket error on client <unknown>, disconnecting.
+1616670660: New connection from 172.21.0.3 on port 1883.
+1616670660: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670660: Socket error on client <unknown>, disconnecting.
+1616670680: New connection from 172.21.0.3 on port 1883.
+1616670680: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670680: Socket error on client <unknown>, disconnecting.
+1616670700: New connection from 172.21.0.3 on port 1883.
+1616670700: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670700: Socket error on client <unknown>, disconnecting.
+1616670720: New connection from 172.21.0.3 on port 1883.
+1616670720: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670720: Socket error on client <unknown>, disconnecting.
+1616670740: New connection from 172.21.0.3 on port 1883.
+1616670740: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670740: Socket error on client <unknown>, disconnecting.
+1616670760: New connection from 172.21.0.3 on port 1883.
+1616670760: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670760: Socket error on client <unknown>, disconnecting.
+1616670780: New connection from 172.21.0.3 on port 1883.
+1616670780: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670780: Socket error on client <unknown>, disconnecting.
+1616670800: New connection from 172.21.0.3 on port 1883.
+1616670800: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670800: Socket error on client <unknown>, disconnecting.
+1616670820: New connection from 172.21.0.3 on port 1883.
+1616670820: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670820: Socket error on client <unknown>, disconnecting.
+1616670840: New connection from 172.21.0.3 on port 1883.
+1616670840: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670840: Socket error on client <unknown>, disconnecting.
+1616670860: New connection from 172.21.0.3 on port 1883.
+1616670860: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670860: Socket error on client <unknown>, disconnecting.
+1616670880: New connection from 172.21.0.3 on port 1883.
+1616670880: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670880: Socket error on client <unknown>, disconnecting.
+1616670900: New connection from 172.21.0.3 on port 1883.
+1616670900: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670900: Socket error on client <unknown>, disconnecting.
+1616670920: New connection from 172.21.0.3 on port 1883.
+1616670920: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670920: Socket error on client <unknown>, disconnecting.
+1616670940: New connection from 172.21.0.3 on port 1883.
+1616670940: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670940: Socket error on client <unknown>, disconnecting.
+1616670960: New connection from 172.21.0.3 on port 1883.
+1616670960: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670960: Socket error on client <unknown>, disconnecting.
+1616670980: New connection from 172.21.0.3 on port 1883.
+1616670980: Sending CONNACK to 172.21.0.3 (0, 5)
+1616670980: Socket error on client <unknown>, disconnecting.
+1616671000: New connection from 172.21.0.3 on port 1883.
+1616671000: Sending CONNACK to 172.21.0.3 (0, 5)
+1616671000: Socket error on client <unknown>, disconnecting.
+1616671020: New connection from 172.21.0.3 on port 1883.
+1616671020: Sending CONNACK to 172.21.0.3 (0, 5)
+1616671020: Socket error on client <unknown>, disconnecting.
+1616671040: New connection from 172.21.0.3 on port 1883.
+1616671040: Sending CONNACK to 172.21.0.3 (0, 5)
+1616671040: Socket error on client <unknown>, disconnecting.
+1616671325: mosquitto version 1.6.14 starting
+1616671325: Config loaded from /mosquitto/config/mosquitto.conf.
+1616671325: Opening websockets listen socket on port 1884.
+1616671325: Opening ipv4 listen socket on port 1883.
+1616671325: Opening ipv6 listen socket on port 1883.
+1616671325: mosquitto version 1.6.14 running
+1616671340: New connection from 172.21.0.4 on port 1883.
+1616671340: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671340: Socket error on client <unknown>, disconnecting.
+1616671340: New connection from 172.21.0.4 on port 1883.
+1616671340: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671340: Socket error on client <unknown>, disconnecting.
+1616671360: New connection from 172.21.0.4 on port 1883.
+1616671360: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671360: Socket error on client <unknown>, disconnecting.
+1616671380: New connection from 172.21.0.4 on port 1883.
+1616671380: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671380: Socket error on client <unknown>, disconnecting.
+1616671400: New connection from 172.21.0.4 on port 1883.
+1616671400: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671400: Socket error on client <unknown>, disconnecting.
+1616671420: New connection from 172.21.0.4 on port 1883.
+1616671420: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671420: Socket error on client <unknown>, disconnecting.
+1616671440: New connection from 172.21.0.4 on port 1883.
+1616671440: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671440: Socket error on client <unknown>, disconnecting.
+1616671460: New connection from 172.21.0.4 on port 1883.
+1616671460: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671460: Socket error on client <unknown>, disconnecting.
+1616671480: New connection from 172.21.0.4 on port 1883.
+1616671480: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671480: Socket error on client <unknown>, disconnecting.
+1616671500: New connection from 172.21.0.4 on port 1883.
+1616671500: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671500: Socket error on client <unknown>, disconnecting.
+1616671520: New connection from 172.21.0.4 on port 1883.
+1616671520: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671520: Socket error on client <unknown>, disconnecting.
+1616671540: New connection from 172.21.0.4 on port 1883.
+1616671540: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671540: Socket error on client <unknown>, disconnecting.
+1616671560: New connection from 172.21.0.4 on port 1883.
+1616671560: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671560: Socket error on client <unknown>, disconnecting.
+1616671580: New connection from 172.21.0.4 on port 1883.
+1616671580: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671580: Socket error on client <unknown>, disconnecting.
+1616671600: New connection from 172.21.0.4 on port 1883.
+1616671600: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671600: Socket error on client <unknown>, disconnecting.
+1616671620: New connection from 172.21.0.4 on port 1883.
+1616671620: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671620: Socket error on client <unknown>, disconnecting.
+1616671640: New connection from 172.21.0.4 on port 1883.
+1616671640: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671640: Socket error on client <unknown>, disconnecting.
+1616671660: New connection from 172.21.0.4 on port 1883.
+1616671660: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671660: Socket error on client <unknown>, disconnecting.
+1616671680: New connection from 172.21.0.4 on port 1883.
+1616671680: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671680: Socket error on client <unknown>, disconnecting.
+1616671700: New connection from 172.21.0.4 on port 1883.
+1616671700: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671700: Socket error on client <unknown>, disconnecting.
+1616671720: New connection from 172.21.0.4 on port 1883.
+1616671720: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671720: Socket error on client <unknown>, disconnecting.
+1616671740: New connection from 172.21.0.4 on port 1883.
+1616671740: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671740: Socket error on client <unknown>, disconnecting.
+1616671760: New connection from 172.21.0.4 on port 1883.
+1616671760: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671760: Socket error on client <unknown>, disconnecting.
+1616671780: New connection from 172.21.0.4 on port 1883.
+1616671780: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671780: Socket error on client <unknown>, disconnecting.
+1616671800: New connection from 172.21.0.4 on port 1883.
+1616671800: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671800: Socket error on client <unknown>, disconnecting.
+1616671820: New connection from 172.21.0.4 on port 1883.
+1616671820: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671820: Socket error on client <unknown>, disconnecting.
+1616671840: New connection from 172.21.0.4 on port 1883.
+1616671840: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671840: Socket error on client <unknown>, disconnecting.
+1616671860: New connection from 172.21.0.4 on port 1883.
+1616671860: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671860: Socket error on client <unknown>, disconnecting.
+1616671880: New connection from 172.21.0.4 on port 1883.
+1616671880: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671880: Socket error on client <unknown>, disconnecting.
+1616671900: New connection from 172.21.0.4 on port 1883.
+1616671900: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671900: Socket error on client <unknown>, disconnecting.
+1616671920: New connection from 172.21.0.4 on port 1883.
+1616671920: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671920: Socket error on client <unknown>, disconnecting.
+1616671940: New connection from 172.21.0.4 on port 1883.
+1616671940: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671940: Socket error on client <unknown>, disconnecting.
+1616671960: New connection from 172.21.0.4 on port 1883.
+1616671960: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671960: Socket error on client <unknown>, disconnecting.
+1616671980: New connection from 172.21.0.4 on port 1883.
+1616671980: Sending CONNACK to 172.21.0.4 (0, 5)
+1616671980: Socket error on client <unknown>, disconnecting.
+1616672000: New connection from 172.21.0.4 on port 1883.
+1616672000: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672000: Socket error on client <unknown>, disconnecting.
+1616672020: New connection from 172.21.0.4 on port 1883.
+1616672020: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672020: Socket error on client <unknown>, disconnecting.
+1616672040: New connection from 172.21.0.4 on port 1883.
+1616672040: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672040: Socket error on client <unknown>, disconnecting.
+1616672060: New connection from 172.21.0.4 on port 1883.
+1616672060: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672060: Socket error on client <unknown>, disconnecting.
+1616672080: New connection from 172.21.0.4 on port 1883.
+1616672080: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672080: Socket error on client <unknown>, disconnecting.
+1616672100: New connection from 172.21.0.4 on port 1883.
+1616672100: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672100: Socket error on client <unknown>, disconnecting.
+1616672120: New connection from 172.21.0.4 on port 1883.
+1616672120: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672120: Socket error on client <unknown>, disconnecting.
+1616672140: New connection from 172.21.0.4 on port 1883.
+1616672140: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672140: Socket error on client <unknown>, disconnecting.
+1616672160: New connection from 172.21.0.4 on port 1883.
+1616672160: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672160: Socket error on client <unknown>, disconnecting.
+1616672180: New connection from 172.21.0.4 on port 1883.
+1616672180: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672180: Socket error on client <unknown>, disconnecting.
+1616672200: New connection from 172.21.0.4 on port 1883.
+1616672200: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672200: Socket error on client <unknown>, disconnecting.
+1616672220: New connection from 172.21.0.4 on port 1883.
+1616672220: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672220: Socket error on client <unknown>, disconnecting.
+1616672240: New connection from 172.21.0.4 on port 1883.
+1616672240: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672240: Socket error on client <unknown>, disconnecting.
+1616672260: New connection from 172.21.0.4 on port 1883.
+1616672260: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672260: Socket error on client <unknown>, disconnecting.
+1616672280: New connection from 172.21.0.4 on port 1883.
+1616672280: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672280: Socket error on client <unknown>, disconnecting.
+1616672300: New connection from 172.21.0.4 on port 1883.
+1616672300: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672300: Socket error on client <unknown>, disconnecting.
+1616672320: New connection from 172.21.0.4 on port 1883.
+1616672320: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672320: Socket error on client <unknown>, disconnecting.
+1616672340: New connection from 172.21.0.4 on port 1883.
+1616672340: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672340: Socket error on client <unknown>, disconnecting.
+1616672360: New connection from 172.21.0.4 on port 1883.
+1616672360: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672360: Socket error on client <unknown>, disconnecting.
+1616672380: New connection from 172.21.0.4 on port 1883.
+1616672380: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672380: Socket error on client <unknown>, disconnecting.
+1616672400: New connection from 172.21.0.4 on port 1883.
+1616672400: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672400: Socket error on client <unknown>, disconnecting.
+1616672420: New connection from 172.21.0.4 on port 1883.
+1616672420: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672420: Socket error on client <unknown>, disconnecting.
+1616672440: New connection from 172.21.0.4 on port 1883.
+1616672440: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672440: Socket error on client <unknown>, disconnecting.
+1616672460: New connection from 172.21.0.4 on port 1883.
+1616672460: Sending CONNACK to 172.21.0.4 (0, 5)
+1616672460: Socket error on client <unknown>, disconnecting.
