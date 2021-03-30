@@ -185,11 +185,13 @@ except KeyboardInterrupt:
 
 - Traefik Dashboard Login: `<IP_address>/dashboard/` (username:password: `admin:tiguitto`)
 
-![Prototype Traefik Login](../.github/prototype/traefik_login.jpg)
+![Prototype Traefik Login](Images/TraeficLogin.png)
 
 - Traefik Dashboard after Credentials: `<IP_address>/dashboard/`
 
-![Prototype Traefik Dashboard](../.github/prototype/traefik_dashboard.jpg)
+![Prototype Traefik Dashboard](Images/TraeficDashboard.png)
+
+![Prototype Traefik Dashboard](Images/Traefic.png)
 
 - MQTT Client (using [MQTT.fx](https://mqttfx.org)) Settings to connect to Broker: `tcp://<IP_address>:1883`
 
