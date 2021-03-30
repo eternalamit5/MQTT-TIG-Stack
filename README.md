@@ -196,8 +196,8 @@ except KeyboardInterrupt:
 
 - MQTT Client (using [MQTT.fx](https://mqttfx.org)) Settings to connect to Broker: `tcp://<IP_address>:1883`
 
-![Prototype MQTT Client Settings 1: Connecting to Broker](../.github/prototype/mqtt_settings_1.jpg)
+![Prototype MQTT Client Settings 1: Connecting to Broker](Images/MQTTclient.png)
 
 - MQTT Client Setting to enter Credentials for broker:
 
-![Prototype MQTT Client Settings 2: Credentials in Client for Broker](../.github/prototype/mqtt_settings_2.jpg)
+![Prototype MQTT Client Settings 2: Credentials in Client for Broker](Images/MQTTclientsettings.png)
