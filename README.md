@@ -181,7 +181,7 @@ except KeyboardInterrupt:
 
 - Grafana Dashboard Login Behind Traefik Reverse-Proxy with Subpath: `<IP_address>/grafana`
 
-![Prototype Grafana Login](../.github/prototype/grafana_login.jpg)
+![Prototype Grafana Login](Images/grafana.xcf)
 
 - Traefik Dashboard Login: `<IP_address>/dashboard/` (username:password: `admin:tiguitto`)
 
